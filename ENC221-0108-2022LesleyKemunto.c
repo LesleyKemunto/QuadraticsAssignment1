@@ -20,5 +20,5 @@ printf("  ");
 printf("  ");
 printf("%f The 2nd root is: ",root2);
 
-return 0
+return 0;
 }
